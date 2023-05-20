@@ -1,5 +1,5 @@
 
-# API-Testing-for-Restful-Booker
+# API-Testing-for-Restful-Booker-Postman-Newman
 
 Website URL: https://restful-booker.herokuapp.com/
 
